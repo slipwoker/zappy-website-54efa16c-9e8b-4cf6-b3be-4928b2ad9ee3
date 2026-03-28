@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Nova Life Sciences empowers women with science-backed fertility supplements and personalized wellness solutions. Start your path to motherhood with confidence — explore now.
+
+### Care Paths
+https://example.com/care-paths
+Discover targeted care paths designed for every stage of your fertility journey. Nova Life&#39;s ovarian reserve supplements and wellness protocols meet you exactly where you are.
+
+### About Nova Life
+https://example.com/about
+Nova Life Sciences was built by women, for women — driven by a mission to transform fertility health through evidence-based supplements and compassionate, whole-body care. Learn our story.
+
+### Contact
+https://example.com/contact
+Have questions about Nova Life&#39;s fertility supplements or care programs? Reach out today and connect with a team that genuinely understands your women&#39;s wellness journey. We&#39;re here for you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
